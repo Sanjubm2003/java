@@ -1,7 +1,7 @@
 package Oops;
 
 public class Encapsulation {
-    private static String name = "Akbar";
+    private static String name = "Sanjay_BM";
 
     public String getName(){
         return name;
